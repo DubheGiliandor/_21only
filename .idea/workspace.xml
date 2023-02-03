@@ -4,46 +4,151 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d67153f-38ec-49e6-9aee-c402798a5f00" name="Changes" comment="" />
+    <list default="true" id="cbef74a3-b22c-4c68-ad38-6bc6892ec757" name="Changes" comment="Hallo Welt">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2LDjd7OterqngJayLZpV0B2s95m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2KPJn3D4eUNKXXSpRveiG4DRsci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Dubhe/Desktop/Übung/_21only",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dubhe\Desktop\Übung\_21only" />
+      <recent name="C:\Users\Dubhe\Desktop\Übung\_21only\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StarterJH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.hswJH.StarterJH" />
+      <module name="_21only" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hswJH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StarterJH" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d67153f-38ec-49e6-9aee-c402798a5f00" name="Changes" comment="" />
-      <created>1675412631761</created>
+      <changelist id="cbef74a3-b22c-4c68-ad38-6bc6892ec757" name="Changes" comment="" />
+      <created>1673870451466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675412631761</updated>
-      <workItem from="1675412633039" duration="1000" />
+      <updated>1673870451466</updated>
+      <workItem from="1673870453899" duration="4057000" />
+      <workItem from="1673959350399" duration="1725000" />
+      <workItem from="1674026431768" duration="3018000" />
+      <workItem from="1674043152679" duration="1064000" />
+      <workItem from="1675341725832" duration="421000" />
+      <workItem from="1675342480283" duration="274000" />
+      <workItem from="1675343245109" duration="2055000" />
+      <workItem from="1675346875881" duration="1329000" />
+      <workItem from="1675409357013" duration="2311000" />
     </task>
+    <task id="LOCAL-00001" summary="Hallo Welt">
+      <created>1673872580227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673872580227</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hallo Welt">
+      <created>1674043527076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674043527076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hallo Welt">
+      <created>1675411206958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675411206958</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hallo Welt">
+      <created>1675412035261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675412035261</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hallo Welt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hallo Welt" />
   </component>
 </project>
